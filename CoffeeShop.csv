@@ -1,0 +1,8 @@
+Day,Morning Sales ($),Afternoon Sales ($),Evening Sales ($),Snacks Sales ($),Total Customers,Promo Active (Yes/No)
+Monday,120,200,150,80,120,No
+Tuesday,130,300,160,120,150,No
+Wednesday,140,250,180,100,140,No
+Thursday,150,400,200,150,180,Yes
+Friday,200,450,300,200,220,Yes
+Saturday,300,500,350,250,300,Yes
+Sunday,250,450,300,200,250,Yes
