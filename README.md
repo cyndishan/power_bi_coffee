@@ -25,8 +25,6 @@ This interactive Power BI report includes the following visualizations:
 
 This report includes the Power BI **Q&A visual**, allowing users to type natural language questions and receive instant visual responses based on the data.
 
----
-
 ### 📥 Suggested Questions You Can Ask:
 
 - **"average snacks sale"**
