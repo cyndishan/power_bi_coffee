@@ -113,7 +113,7 @@ Here’s a preview of the full Power BI report:
 
 ## 📂 Files
 
-- `Coffee_Shop_Sales_Report.pbix` — Main Power BI dashboard file
+- `Coffee Shop Sales Report.pbix` — Main Power BI dashboard file
 - `data/CoffeeShop.csv` — Source dataset 
 
 ---
