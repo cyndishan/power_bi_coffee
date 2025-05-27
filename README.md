@@ -64,7 +64,8 @@ WeekdayTable = DATATABLE(
 
 Here’s a preview of the full Power BI report:
 
-![image](https://github.com/user-attachments/assets/f2df8fcc-cbd2-419d-b46e-6e34403b8216)
+![image](https://github.com/user-attachments/assets/28ed61ce-066d-47cd-8465-ce4c63350233)
+
 
 ---
 
