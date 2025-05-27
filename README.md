@@ -60,6 +60,14 @@ WeekdayTable = DATATABLE(
 
 ---
 
+## 🖼️ Report Screenshot
+
+Here’s a preview of the full Power BI report:
+
+![image](https://github.com/user-attachments/assets/f2df8fcc-cbd2-419d-b46e-6e34403b8216)
+
+---
+
 ## 📈 Key Insights
 
 1. **Afternoon consistently drives the highest sales** across all days, followed by Evening, then Morning, and Snacks.  
@@ -88,14 +96,6 @@ WeekdayTable = DATATABLE(
 - **Reinvigorate Mondays:** Launch motivational discounts or loyalty boosters to attract customers on the slowest day.
 - **Midweek Snack Promotion:** Test snack bundle deals or midweek flash discounts to increase engagement on Wednesdays.
 - **Investigate Weekend Drop-Off:** Analyze internal or external factors contributing to Sunday’s performance drop and take corrective action.
-
----
-
-## 🖼️ Report Screenshot
-
-Here’s a preview of the full Power BI report:
-
-![image](https://github.com/user-attachments/assets/f2df8fcc-cbd2-419d-b46e-6e34403b8216)
 
 ---
 
