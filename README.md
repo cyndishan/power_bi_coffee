@@ -133,5 +133,5 @@ This project was created as part of my data analytics portfolio to demonstrate:
 
 **Cyndi Li Shan** — Aspiring Data Analyst  
 📧 Email: [cyndi.shan0101@gmail.com]  
-🌐 Portfolio: [[github.com/cyndishan]](https://github.com/cyndishan)
-💼 LinkedIn: [[LinkedIn Profile]](https://www.linkedin.com/in/cyndi-li-shan/)
+🌐 Portfolio: [[github]](https://github.com/cyndishan)
+💼 LinkedIn: [[LinkedIn]](https://www.linkedin.com/in/cyndi-li-shan/)
