@@ -18,6 +18,7 @@ This interactive Power BI report includes the following visualizations:
 ### 🔎 Slicers
 - **Promotion Active:** Yes / No  
 - **Day of the Week**
+- **Time of day Category**
 
 ---
 
