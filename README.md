@@ -133,6 +133,7 @@ This project was created as part of my data analytics portfolio to demonstrate:
 - Effective use of slicers and Q&A natural language visuals
 - Extracting actionable business insights from sales data
 - Professional data storytelling for non-technical stakeholders
+- While the current dataset includes only one week of sales and customer data, having comparable data for Thursday to Sunday before and after a promotion would enable a more meaningful analysis of the promotion’s impact, including but not limited to: % Increase in Sales (After vs Before) for each day, Customer Growth Rate, Sales per Customer, etc.
 
 ---
 
