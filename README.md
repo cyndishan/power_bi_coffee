@@ -22,20 +22,6 @@ This interactive Power BI report includes the following visualizations:
 
 ---
 
-## 💬 Q&A Feature — Interactive Dialogue
-
-This report includes the Power BI **Q&A visual**, allowing users to type natural language questions and receive instant visual responses based on the data.
-
-### 📥 Suggested Questions You Can Ask:
-
-- **"average snacks sale"**
-- **"total morning sale"**
-- **"compare snacks sale and customer"**
-- **"total customer"**
-
-This interactive element empowers users to explore insights without navigating filters or visuals directly.
-
----
 
 ## ✅ Problem Solved: Incorrect Weekday Order
 
